@@ -1,0 +1,3 @@
+default_save_path_prefix : /home/user/outpace_diffusion/saved_log/
+default_env_path : /home/user/outpace_diffusion/envs/AntEnv/envs/antenv/
+default_hgg_gcc_path : /home/user/outpace_diffusion/hgg
